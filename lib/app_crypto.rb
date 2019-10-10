@@ -48,4 +48,4 @@ def perform(href)
 	puts arr_final_cur
 end
 
-#perform("https://coinmarketcap.com/all/views/all/")
+perform("https://coinmarketcap.com/all/views/all/")

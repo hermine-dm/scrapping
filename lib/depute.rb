@@ -73,5 +73,5 @@ def perform()
 	create_final(array_of_members, array_of_mail)
 end
 
-#perform()
+perform()
 

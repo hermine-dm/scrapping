@@ -49,4 +49,4 @@ def perform()
 	return arr_final
 end
 
-#perform()
+perform()
