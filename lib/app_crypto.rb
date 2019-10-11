@@ -44,8 +44,8 @@ def perform(href)
 	all_crypto_sym = array_of_sym(page)
 	all_crypto_cur = array_of_cur(page)
 	arr_final_cur = creat_final_array(all_crypto_sym,all_crypto_cur)
-	return arr_final_cur
 	puts arr_final_cur
+	return arr_final_cur
 end
 
 perform("https://coinmarketcap.com/all/views/all/")
